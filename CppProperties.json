@@ -1,0 +1,44 @@
+{
+  "configurations": [
+    {
+      "name": "Visual Micro",
+      "intelliSenseMode": "windows-msvc-x86",
+      "includePath": [
+        "${projectRoot}..\\High_Voltage_Firmware",
+        "${projectRoot}..\\..\\..\\AppData\\Local\\arduino15\\packages\\TleraCorp\\hardware\\stm32l0\\0.0.10\\libraries\\STM32L0\\src",
+        "${projectRoot}..\\..\\..\\AppData\\Local\\arduino15\\packages\\TleraCorp\\hardware\\stm32l0\\0.0.10\\libraries\\LoRaWAN\\src",
+        "${projectRoot}..\\..\\..\\AppData\\Local\\arduino15\\packages\\TleraCorp\\hardware\\stm32l0\\0.0.10\\libraries\\TimerMillis\\src",
+        "${projectRoot}..\\..\\..\\AppData\\Local\\arduino15\\packages\\TleraCorp\\hardware\\stm32l0\\0.0.10\\libraries\\Wire\\src",
+        "${projectRoot}..\\..\\..\\AppData\\Local\\arduino15\\packages\\TleraCorp\\hardware\\stm32l0\\0.0.10\\libraries\\RTC\\src",
+        "${projectRoot}..\\..\\..\\AppData\\Local\\arduino15\\packages\\TleraCorp\\hardware\\stm32l0\\0.0.10\\libraries\\GNSS\\src",
+        "${projectRoot}..\\..\\..\\AppData\\Local\\arduino15\\packages\\TleraCorp\\hardware\\stm32l0\\0.0.10\\libraries\\SPI\\src",
+        "${projectRoot}..\\..\\..\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+        "${projectRoot}..\\..\\..\\Documents\\Arduino\\libraries\\Adafruit_SSD1306",
+        "${projectRoot}..\\..\\..\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+        "${projectRoot}..\\..\\..\\AppData\\Local\\arduino15\\packages\\TleraCorp\\hardware\\stm32l0\\0.0.10\\libraries\\GNSS\\src\\utility",
+        "${projectRoot}..\\..\\..\\AppData\\Local\\arduino15\\packages\\TleraCorp\\hardware\\stm32l0\\0.0.10\\cores\\arduino",
+        "${projectRoot}..\\..\\..\\AppData\\Local\\arduino15\\packages\\TleraCorp\\hardware\\stm32l0\\0.0.10\\cores\\arduino\\avr",
+        "${projectRoot}..\\..\\..\\AppData\\Local\\arduino15\\packages\\TleraCorp\\hardware\\stm32l0\\0.0.10\\variants\\Cricket-L082CZ",
+        "${projectRoot}..\\..\\..\\AppData\\Local\\arduino15\\packages\\TleraCorp\\hardware\\stm32l0\\0.0.10\\system\\CMSIS\\Include",
+        "${projectRoot}..\\..\\..\\AppData\\Local\\arduino15\\packages\\TleraCorp\\hardware\\stm32l0\\0.0.10\\system\\CMSIS\\Device\\ST\\STM32L0xx\\Include",
+        "${projectRoot}..\\..\\..\\AppData\\Local\\arduino15\\packages\\TleraCorp\\hardware\\stm32l0\\0.0.10\\system\\STM32L0xx\\Include",
+        "${projectRoot}..\\..\\..\\ONEDRI~1\\H_V_SE~1\\HIGH_V~1",
+        "${projectRoot}..\\..\\..\\AppData\\Local\\arduino15\\packages\\TleraCorp\\hardware\\stm32l0"
+      ],
+      "defines": [
+        "_SYSTEM_CORE_CLOCK_=32000000L",
+        "ARDUINO=108013",
+        "ARDUINO_STM32L0_CRICKET",
+        "ARDUINO_ARCH_STM32L0",
+        "STM32L082xx",
+        "USB_VID=0x1209",
+        "USB_PID=0x6664",
+        "USB_DID=0xffff",
+        "DOSFS_SDCARD=0",
+        "DOSFS_SFLASH=0",
+        "__cplusplus=201103L",
+        "_VMICRO_INTELLISENSE"
+      ]
+    }
+  ]
+}
